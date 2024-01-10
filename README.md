@@ -12,7 +12,10 @@ Another attempt to make swagger ui docs look cool. Checkout the screen shots.
 
 - Download the CSS file locally and use in your project.
 - Use a CDN - jsDelivr. Just copy below URL -
-  `https://cdn.jsdelivr.net/gh/ajatkj/swagger-ui-improved-theme/css/swagger-ui-improved.css`
+
+```
+  https://cdn.jsdelivr.net/gh/ajatkj/swagger-ui-improved-theme/css/swagger-ui-improved.css
+```
 
 # Screenshots
 
